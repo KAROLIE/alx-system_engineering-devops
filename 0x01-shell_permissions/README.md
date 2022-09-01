@@ -5,3 +5,4 @@ task 3 Write a script that changes the owner of the file hello to the user betty
 task 4 Write a script that creates an empty file called hello.
 Write a script that adds execute permission to the owner of the file hello.
 task 6 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+task 6 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
